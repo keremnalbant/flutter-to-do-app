@@ -1,0 +1,43 @@
+name: listify
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^2.1.0
+  menu_button: ^1.4.2+1
+  expand_tap_area: ^1.1.0
+  table_calendar: ^3.0.3
+  change_app_package_name: ^1.0.0
+  nb_utils: ^4.3.0+4
+  flutter_datetime_picker:
+    git: https://github.com/Realank/flutter_datetime_picker.git
+  flutter_riverpod: ^1.0.0
+  firebase_core: ^1.8.0
+  firebase_auth: ^3.1.4
+  cloud_firestore: ^2.5.4
+  cupertino_icons: ^1.0.2
+  connectivity_plus: ^2.2.1
+  google_sign_in: ^5.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+dependency_overrides:
+  platform: ^3.1.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/

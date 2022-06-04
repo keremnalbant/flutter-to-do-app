@@ -1,0 +1,4 @@
+#Sat Jun 04 19:05:10 TRT 2022
+base.0=C\:\\Users\\hackerem\\Desktop\\BLM4538\\listify-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

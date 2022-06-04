@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/listify/listify/BuildConfig.java
+ com.listify.listify.BuildConfig
